@@ -54,3 +54,5 @@ Con tu terminal de VS Code abierta, ejecuta estos comandos en orden para encende
 Con el servidor encendido (`Running on http://127.0.0.1:5000`), ingresa a:
 * **Página de Bienvenida:** `http://127.0.0` (Carga `hola.html`)
 * **Menú Burger Lab:** `http://127.0.0index` (Carga `index.html`)
+
+---
