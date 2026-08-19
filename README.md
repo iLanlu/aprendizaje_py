@@ -1,4 +1,4 @@
-# 🍔 Proyecto Burger Lab - Flask
+# 🍔 Proyecto Html Lab - Flask
 
 Repositorio personal desarrollado para el taller de Nuevas Tecnologías.
 
