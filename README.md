@@ -29,25 +29,6 @@ La ruta final que debes ver en tu explorador de VS es: **`static\images`**
 
 ---
 
-## 📥 Cómo Clonar el Proyecto en una PC Nueva
-
-Abre la terminal de Windows en la carpeta donde desees guardar el proyecto y ejecuta:
-
-1. **Clonar el repositorio:**
-   ```powershell
-   git clone https://github.com
-   ```
-2. **Entrar a la carpeta del proyecto:**
-   ```powershell
-   cd Proyecto_py
-   ```
-3. **Abrir el proyecto en Visual Studio Code:**
-   ```powershell
-   code .
-   ```
-
----
-
 ## 🚀 Comandos Exactos para Arrancar el Proyecto
 
 Con tu terminal de VS Code abierta, ejecuta estos comandos en orden para encender tu servidor local:
